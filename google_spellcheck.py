@@ -1,4 +1,4 @@
-class GoogleSpellcheker(object):
+class GoogleSpellchecker(object):
 
     @staticmethod
     def __get_page(url):
