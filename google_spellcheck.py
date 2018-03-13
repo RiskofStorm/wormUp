@@ -1,3 +1,5 @@
+
+# Depricated. Running this code will get 503 response. Google has fixed this abuse :)
 class GoogleSpellchecker(object):
 
     @staticmethod
