@@ -1,5 +1,5 @@
 """ Currenly work only for linux 
-    For windows there would be no green sumbols, only weird strings"""
+    For windows there would be no green symbols, only weird strings"""
 
 import random as rd
 import time
