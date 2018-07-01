@@ -10,4 +10,4 @@ pip install scikit-learn
 pip install scipy
 pip install psycopg2
 pip install pyspark
-pip install nltk
+sudo pip install nltk
